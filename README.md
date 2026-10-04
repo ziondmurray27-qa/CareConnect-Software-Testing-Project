@@ -57,3 +57,7 @@ I also practiced using assertions in automated tests and learned how manual and 
 ## Project Status
 
 This project is currently being developed as a QA portfolio project. Additional test documentation, API testing examples, SQL validation, automation tests, and CI/CD configuration will be added as the project progresses.
+
+## Automation Note
+
+CareConnect is a simulated application and does not have a live testing environment. The Playwright tests and GitHub Actions workflow in this repository demonstrate the structure and approach I would use for browser automation and CI/CD in a real QA project.
