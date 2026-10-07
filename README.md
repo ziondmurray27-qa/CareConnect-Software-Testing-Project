@@ -56,7 +56,9 @@ I also practiced using assertions in automated tests and learned how manual and 
 
 ## Project Status
 
-This project is currently being developed as a QA portfolio project. Additional test documentation, API testing examples, SQL validation, automation tests, and CI/CD configuration will be added as the project progresses.
+This portfolio project demonstrates a complete sample QA workflow across manual testing, defect reporting, API validation, SQL validation, browser automation, and CI/CD.
+
+Future updates may expand test coverage, automation depth, and additional QA scenarios.
 
 ## Automation Note
 
